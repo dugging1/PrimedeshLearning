@@ -1,0 +1,11 @@
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\bin\Debug\PrimeDeshLearning.exe.config
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\bin\Debug\PrimeDeshLearning.exe
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\bin\Debug\PrimeDeshLearning.pdb
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.csprojAssemblyReference.cache
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.MainForm.resources
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.PdToEn.resources
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.Properties.Resources.resources
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.csproj.GenerateResource.cache
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.csproj.CoreCompileInputs.cache
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.exe
+C:\Users\dugging\source\repos\PrimeDeshLearning\PrimeDeshLearning\obj\Debug\PrimeDeshLearning.pdb
